@@ -1,0 +1,6 @@
+c:\users\steve\documents\visual studio 2015\Projects\SortingArray\SortingArray\bin\Debug\SortingArray.exe.config
+c:\users\steve\documents\visual studio 2015\Projects\SortingArray\SortingArray\bin\Debug\SortingArray.exe
+c:\users\steve\documents\visual studio 2015\Projects\SortingArray\SortingArray\bin\Debug\SortingArray.pdb
+c:\users\steve\documents\visual studio 2015\Projects\SortingArray\SortingArray\obj\Debug\SortingArray.csprojResolveAssemblyReference.cache
+c:\users\steve\documents\visual studio 2015\Projects\SortingArray\SortingArray\obj\Debug\SortingArray.exe
+c:\users\steve\documents\visual studio 2015\Projects\SortingArray\SortingArray\obj\Debug\SortingArray.pdb

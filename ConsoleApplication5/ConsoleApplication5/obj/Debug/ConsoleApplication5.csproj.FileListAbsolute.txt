@@ -1,0 +1,2 @@
+c:\users\steve\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Steve\Desktop\SharedClassFiles\Coding\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config

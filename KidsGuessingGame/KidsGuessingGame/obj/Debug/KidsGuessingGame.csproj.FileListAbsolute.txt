@@ -1,0 +1,6 @@
+c:\users\steve\documents\visual studio 2015\Projects\KidsGuessingGame\KidsGuessingGame\bin\Debug\KidsGuessingGame.exe.config
+c:\users\steve\documents\visual studio 2015\Projects\KidsGuessingGame\KidsGuessingGame\bin\Debug\KidsGuessingGame.exe
+c:\users\steve\documents\visual studio 2015\Projects\KidsGuessingGame\KidsGuessingGame\bin\Debug\KidsGuessingGame.pdb
+c:\users\steve\documents\visual studio 2015\Projects\KidsGuessingGame\KidsGuessingGame\obj\Debug\KidsGuessingGame.csprojResolveAssemblyReference.cache
+c:\users\steve\documents\visual studio 2015\Projects\KidsGuessingGame\KidsGuessingGame\obj\Debug\KidsGuessingGame.exe
+c:\users\steve\documents\visual studio 2015\Projects\KidsGuessingGame\KidsGuessingGame\obj\Debug\KidsGuessingGame.pdb

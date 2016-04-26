@@ -54,6 +54,7 @@ namespace ConsoleApplication7
                     choice = Console.ReadLine();
                     messages[++messageID] = Encrypt(choice);
                     Console.WriteLine("Your message has been saves as Message ID" + messageID + "\n");
+                    Console.WriteLine(Encrypt(choice));
                 }
                 //Retrieve a message
                 if (choice == "b")

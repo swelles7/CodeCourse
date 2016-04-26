@@ -1,0 +1,6 @@
+c:\users\steve\documents\visual studio 2015\Projects\ConwaysGameofLife2\ConwaysGameofLife2\bin\Debug\ConwaysGameofLife2.exe.config
+c:\users\steve\documents\visual studio 2015\Projects\ConwaysGameofLife2\ConwaysGameofLife2\bin\Debug\ConwaysGameofLife2.exe
+c:\users\steve\documents\visual studio 2015\Projects\ConwaysGameofLife2\ConwaysGameofLife2\bin\Debug\ConwaysGameofLife2.pdb
+c:\users\steve\documents\visual studio 2015\Projects\ConwaysGameofLife2\ConwaysGameofLife2\obj\Debug\ConwaysGameofLife2.csprojResolveAssemblyReference.cache
+c:\users\steve\documents\visual studio 2015\Projects\ConwaysGameofLife2\ConwaysGameofLife2\obj\Debug\ConwaysGameofLife2.exe
+c:\users\steve\documents\visual studio 2015\Projects\ConwaysGameofLife2\ConwaysGameofLife2\obj\Debug\ConwaysGameofLife2.pdb
